@@ -60,7 +60,7 @@ ___
 2. Build
     ```bash
     # Clone / extract the project
-    git clone https://github.com/LLiDaBao/AAGLSD.git
+    git clone https://github.com/zyl0609/AAGLSD.git
     cd AAGLSD/src/src_cpp               # project root
 
     # Configure
